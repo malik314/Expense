@@ -1,11 +1,23 @@
 # Expense
+This application will allow you to keep track of your expenses.
+### Installation and use
 
-This is a project covered in Udemy that tracks your Expenses.
+Clone this repository:
 
-Setup:
+```
+git clone https://github.com/malik314/Expense.git
+```
 
-install npm
+Install npm packages:
 
-Run:
+```
+npm install
+```
 
+Run locally:
+
+```
 npm start
+```
+
+... Make some changes.
